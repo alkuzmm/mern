@@ -1,5 +1,6 @@
 {
   "port": 5000,
   "jwtSecret": "gwakuaf0n9l6iiz0yhg88zfbqix5pcgbsh8ashgb7n37wr63ch032z0ggztbcakb",
-  "mongoUri": "mongodb://127.0.0.1:27017/back_end"
+  "mongoUri": "mongodb://127.0.0.1:27017/back_end",
+  "baseUrl": "http://localhost:5000"
 }
